@@ -1,3 +1,5 @@
+[![Torii Build Status](https://circleci.com/gh/pcherednichenko/geoDistance.png?circle-token=b18fdca0e536d760d3faef3906e2cbbba7500ef1 "Geo Distance Build Status")](https://circleci.com/gh/pcherednichenko/geoDistance)
+
 ## GeoDistance 
 
 ![geo logo](/github/logo.png)
